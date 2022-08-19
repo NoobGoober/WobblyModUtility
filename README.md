@@ -1,6 +1,8 @@
 # WobblyModUtility
 A Mod Loader For Wobbly Life
 
+[Want to make a mod? Read how here!](https://melonwiki.xyz/#/modders/quickstart)
+
 # Before You Use
 What people do with this tool is outside our control. We do not encourage cheating in online play. All mods included in the program are checked for malware but mods downloaded from elsewhere are not our responsibility 
 
