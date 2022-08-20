@@ -6,6 +6,10 @@ What people do with this tool is outside our control. We do not encourage cheati
 
 This program is not official and is not endorsed by the Wobbly Life developers
 
+We do NOT ALLOW you to use this tool to pirate and crack the game. Anybody asking for help with a pirated version will be warned then ignored.
+
+Get help in the discussions tab
+
 # Usage
 1. Download and launch the program
 2. On the to bar, select choose path and navigate to your installation of Wobbly Life (This will be saved for the future)
