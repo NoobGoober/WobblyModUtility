@@ -1,8 +1,6 @@
 # WobblyModUtility
 A Mod Loader For Wobbly Life
 
-[Want to make a mod? Read how here!](https://melonwiki.xyz/#/modders/quickstart)
-
 # Before You Use
 What people do with this tool is outside our control. We do not encourage cheating in online play. All mods included in the program are checked for malware but mods downloaded from elsewhere are not our responsibility 
 
@@ -29,3 +27,9 @@ You can also install non verified mods from other sources. To do this, navigate 
 - Select "launch without mods" to launch the game with no mods active, whithout having to delete them!
 
 - Select remove mods to go back to a clean installation of wobbly life!
+
+# Creating Mods
+
+Follow the melon loader documentation [here](https://melonwiki.xyz/#/modders/quickstart) to get your mod running. Next, to add support with the in game mod manager, add a refrence to "WobblyModMenu.dll" and add the namespace 'WobblyModLoader' to your script. At the start of all functions, add this code snippet, replacing "ModDLLFilename" with the name of your mods output file (EG: "MyCoolMod.dll") 
+
+```if(!WMM.CanShowMod("ModDLLFilename")) {return;}```
