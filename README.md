@@ -44,4 +44,4 @@ You can also install non verified mods from other sources. To do this, navigate 
 
 This is a list of people who made or helped make mods for the mod loader. To contribute and add your mod, send it in the discussions tab. All mods added MUST be open source. 
 
-ScruffyKat - 2 Mods
+- ScruffyKat - 2 Mods
