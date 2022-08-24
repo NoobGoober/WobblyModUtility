@@ -1,5 +1,5 @@
 # WobblyModUtility
-A Mod Loader For Wobbly Life
+A Mod Loader For Wobbly Life With Mods Included!
 
 # Before You Use
 What people do with this tool is outside our control. We do not encourage cheating in online play. All mods included in the program are checked for malware but mods downloaded from elsewhere are not our responsibility 
