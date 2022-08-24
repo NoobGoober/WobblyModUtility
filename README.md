@@ -39,3 +39,7 @@ You can also install non verified mods from other sources. To do this, navigate 
 [UnityExplorer by sinai-dev](https://github.com/sinai-dev/UnityExplorer)
 
 [WobblyLife by RubberBandGames](https://www.rubberbandgames.com/)
+
+# Mod Creators (People who contibuted to the modloader by adding mods)
+
+ScruffyKat - 2 Mods
