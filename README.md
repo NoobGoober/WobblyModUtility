@@ -32,8 +32,10 @@ You can also install non verified mods from other sources. To do this, navigate 
 
 - Select remove mods to go back to a clean installation of wobbly life!
 
-# Creating Mods
+# Software Credits
 
-Follow the melon loader documentation [here](https://melonwiki.xyz/#/modders/quickstart) to get your mod running. Next, to add support with the in game mod manager, add a refrence to "WobblyModMenu.dll" and add the namespace 'WobblyModLoader' to your script. At the start of all functions, add this code snippet, replacing "ModDLLFilename" with the name of your mods output file (EG: "MyCoolMod.dll") 
+[MelonLoader by LavaGang](https://github.com/LavaGang/MelonLoader)
 
-```if(!WMM.CanShowMod("ModDLLFilename")) {return;}```
+[UnityExplorer by sinai-dev](https://github.com/sinai-dev/UnityExplorer)
+
+[WobblyLife by RubberBandGames](https://www.rubberbandgames.com/)
