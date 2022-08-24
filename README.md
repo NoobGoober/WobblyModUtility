@@ -40,6 +40,8 @@ You can also install non verified mods from other sources. To do this, navigate 
 
 [WobblyLife by RubberBandGames](https://www.rubberbandgames.com/)
 
-# Mod Creators (People who contibuted to the modloader by adding mods)
+# Mod Creators
+
+This is a list of people who made or helped make mods for the mod loader. To contribute and add your mod, send it in the discussions tab. All mods added MUST be open source. 
 
 ScruffyKat - 2 Mods
